@@ -1,16 +1,16 @@
 {
-"name": "g2g465",
-"theme": "g2g465",
-"version": "1.7.5",
-"description": "g2g465 สมัครเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"g2g465",
-"g2g465 เครดิตฟรี",
-"g2g465 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/g2g465",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "g2g465",
+  "theme": "g2g465",
+  "version": "1.8.0",
+  "description": "g2g465 สมัครเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "g2g465",
+    "g2g465 เครดิตฟรี",
+    "g2g465 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/g2g465",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
